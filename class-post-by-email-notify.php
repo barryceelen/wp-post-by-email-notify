@@ -114,7 +114,7 @@ class Post_By_Email_Notify {
 		 * @param int   Post author ID.
 		 */
 		$recipients = apply_filters(
-			$this->plugin_slug . '_recipients',
+			'post_by_email_notify_recipients',
 			array( $userdata->user_email ),
 			$userdata->ID
 		);
@@ -128,7 +128,7 @@ class Post_By_Email_Notify {
 		 * @param int    $author_id Post author ID
 		 */
 		$subject = apply_filters(
-			$this->plugin_slug . '_subject',
+			'post_by_email_notify_subject',
 			$subject,
 			$userdata->ID
 		);
@@ -147,7 +147,7 @@ class Post_By_Email_Notify {
 		 * @param int Post author ID
 		 */
 		$body = apply_filters(
-			$this->plugin_slug . '_message',
+			'post_by_email_notify_message',
 			$body,
 			$post_ID,
 			$userdata->ID
