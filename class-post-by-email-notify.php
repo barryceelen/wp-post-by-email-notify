@@ -21,16 +21,16 @@ class Post_By_Email_Notify {
 	/**
 	 * Plugin version.
 	 *
-	 * @since   0.0.1
+	 * @since   1.0.0
 	 *
 	 * @var     string
 	 */
-	const VERSION = '0.0.1';
+	const VERSION = '1.0.0';
 
 	/**
 	 * Unique identifier.
 	 *
-	 * @since    0.0.1
+	 * @since    1.0.0
 	 *
 	 * @var      string
 	 */
@@ -39,7 +39,7 @@ class Post_By_Email_Notify {
 	/**
 	 * Instance of this class.
 	 *
-	 * @since    0.0.1
+	 * @since    1.0.0
 	 *
 	 * @var      object
 	 */
@@ -48,7 +48,7 @@ class Post_By_Email_Notify {
 	/**
 	 * Initialize the plugin.
 	 *
-	 * @since     0.0.1
+	 * @since     1.0.0
 	 */
 	private function __construct() {
 
@@ -61,7 +61,7 @@ class Post_By_Email_Notify {
 	/**
 	 * Return an instance of this class.
 	 *
-	 * @since     0.0.1
+	 * @since     1.0.0
 	 *
 	 * @return    object    A single instance of this class.
 	 */
@@ -78,7 +78,7 @@ class Post_By_Email_Notify {
 	/**
 	 * Load the plugin text domain for translation.
 	 *
-	 * @since    0.0.1
+	 * @since    1.0.0
 	 */
 	public function load_plugin_textdomain() {
 
@@ -92,7 +92,7 @@ class Post_By_Email_Notify {
 	/**
 	 * Notify the author when a post is created via email
 	 *
-	 * @since  0.0.1
+	 * @since  1.0.0
 	 *
 	 * @param    int    $post_ID    ID of the post
 	 * @return   void

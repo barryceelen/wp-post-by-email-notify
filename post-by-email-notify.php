@@ -10,11 +10,11 @@
  *
  * @wordpress-plugin
  * Plugin Name: Post By Email Notify
- * Plugin URI:  http://github.com/barryceelen/post-by-email-notify
- * Description: Sends a notification to authors when a post is created by email.
- * Version:     0.0.1
+ * Plugin URI:  http://wordpress.org/plugins/post-by-email-notify
+ * Description: Sends a notification to the author when a post is created by email.
+ * Version:     1.0.0
  * Author:      Barry Ceelen
- * Author URI:  http://github.com/barryceelen
+ * Author URI:  https://github.com/barryceelen
  * Text Domain: post-by-email-notify
  * License:     GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
