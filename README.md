@@ -1,5 +1,20 @@
 Post By Email Notify
 ====================
 
-Sends a notification to authors when a post is created by email. 
-Requires the [Post By Email](http://wordpress.org/plugins/post-by-email/) plugin.
+**Important:** Requires the [Post By Email](http://wordpress.org/plugins/post-by-email/) plugin.
+
+Sends a notification to the author when a post is created by email. 
+
+## Plugin directory
+
+The plugin is also hosted on the [WordPress plugin directory](http://wordpress.org/plugins/post-by-email-notify/)
+
+
+## Customize
+
+You can modify the notification email recipients, subject, message and headers via [filters](http://codex.wordpress.org/Plugin_API#Filters):
+
+* `post_by_email_notify_recipients`
+* `post_by_email_notify_subject`
+* `post_by_email_notify_message`
+* `post_by_email_notify_headers`
