@@ -15,7 +15,7 @@ Sends a notification to the author when a post is created by email.
 
 Once an email has been successfully posted to the blog via the [Post By Email](http://wordpress.org/plugins/post-by-email/) plugin, the author of the post is notified via email.
 
-### Github ###
+= Github =
 
 Fork me on [Github](https://github.com/barryceelen/wp-post-by-email-notify).
 
