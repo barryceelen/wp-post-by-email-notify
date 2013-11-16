@@ -11,7 +11,7 @@ Sends a notification to the author when a post is created by email.
 
 == Description ==
 
-**Important:** Requires the [Post By Email](http://wordpress.org/plugins/post-by-email/) plugin.
+**Note:** Requires the [Post By Email](http://wordpress.org/plugins/post-by-email/) plugin.
 
 Once an email has been successfully posted to the blog via the [Post By Email](http://wordpress.org/plugins/post-by-email/) plugin, the author of the post is notified via email.
 
