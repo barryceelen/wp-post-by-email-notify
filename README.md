@@ -16,5 +16,5 @@ You can modify the notification email recipient(s), subject, message and headers
 
 ## Plugin Directory
 
-The plugin is also hosted on the [WordPress plugin directory](http://wordpress.org/plugins/post-by-email-notify/)
+The plugin is hosted on the [WordPress plugin directory](http://wordpress.org/plugins/post-by-email-notify/).
 
